@@ -11,14 +11,7 @@ I'm a **Security Researcher** and **Security Script Developer** focusing on:
 - **Recon Automation & Offensive Tooling**
 - **LLM-Based Security Automation Workflows**
 - **Threat Discovery, JavaScript Analysis & API Enumeration**
-
-I build custom tools for:
-- Subdomain enumeration  
-- Web crawling  
-- JS extraction & secrets analysis  
-- SSRF testing  
-- Custom API attack-surface mapping  
-- Recon orchestration frameworks  
+  
 
 ---
 

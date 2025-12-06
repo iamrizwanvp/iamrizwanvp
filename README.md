@@ -1,62 +1,72 @@
-<h1 align="center">Hi 👋, I'm Rizwan</h1>
-<h3 align="center">Security Researcher • Bug Bounty Hunter • Web App Pentester</h3>
+<h1 align="center">👋 Hello, I'm Rizwan</h1>
+<h3 align="center">Security Researcher • Automation Developer • Web & API Security Tester</h3>
 
 ---
 
-## 🚀 About Me
-- 🔭 I focus on **Bug Bounty, Recon Automation, API Security & Web Pentesting**
-- 🛠️ Building tools like **Subenum, Crawler, SSRF Automation, Recon Frameworks**
-- 🌐 Skilled in **JS Security, API Enumeration, Cloud Security, Red Team Techniques**
-- 🧠 Passion: Breaking security to understand it better & helping devs fix issues
+## 🛡️ About Me
+
+I'm a **Security Researcher** and **Security Script Developer** focusing on:
+
+- **Web & API Security Testing**
+- **Recon Automation & Offensive Tooling**
+- **LLM-Based Security Automation Workflows**
+- **Threat Discovery, JavaScript Analysis & API Enumeration**
+
+I build custom tools for:
+- Subdomain enumeration  
+- Web crawling  
+- JS extraction & secrets analysis  
+- SSRF testing  
+- Custom API attack-surface mapping  
+- Recon orchestration frameworks  
 
 ---
 
-## 🧰 Technologies & Tools
+## 🧑‍💻 Programming & Frameworks
 
-### 🧑‍💻 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-
-### 🌐 Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-### 🔐 Security Tools
+---
+
+## 🔐 Security Tools I Use
+
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FE5C05?logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?logo=security&logoColor=white)
-![FFUF](https://img.shields.io/badge/ffuf-000000?logo=kali-linux&logoColor=white)
-![Subfinder](https://img.shields.io/badge/Subfinder-ffcc00?logo=hack-the-box&logoColor=black)
+![ProjectDiscovery](https://img.shields.io/badge/ProjectDiscovery-0A0A0A?logo=swagger&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?logo=kalilinux&logoColor=white)
 
-### 🔎 Monitoring & Logging
+---
+
+## 📡 Monitoring & Analysis
+
 ![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white)
 
-### 🛠️ Development Tools
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+---
+
+## 🛠️ Development Tools
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_AI-4B8BBE?logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
 ---
 
-## 🔥 Bug Bounty & Security Focus
+## 🚀 Focus Areas
 
-![Bug Bounty Hunter](https://img.shields.io/badge/Bug%20Bounty%20Hunter-DC143C?logo=hackthebox&logoColor=white)
-![Security Researcher](https://img.shields.io/badge/Security%20Researcher-8A2BE2?logo=protonmail&logoColor=white)
-![Web Pentesting](https://img.shields.io/badge/Web%20Pentester-0099cc?logo=firefox&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![Rizwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamrizwanvp&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrizwanvp&layout=compact&theme=dark)
+- API recon pipelines  
+- JS security analysis  
+- Token flow mapping  
+- Vulnerability scanning automation  
+- Cache poisoning research  
+- AI-driven pentest tooling  
 
 ---
 
-## 🤝 Connect with Me
-- 💬 Ask me about **API Security, Recon, JavaScript analysis, Automation**
-- 📫 Reach me at: **(add your email here)**
-
----
-
-⭐ **Thanks for visiting my profile!**
+## 📫 Connect
+Feel free to reach out if you want to collaborate on:
+- Recon tooling  
+- LLM-powered security automation  
+- Bug bounty research  
+- API security engineering  

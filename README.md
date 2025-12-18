@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Rizwan</h1>
-<h3 align="center">Security Researcher • Automation Developer • Web & API Security Tester</h3>
+<h3 align="center">Security Researcher • Script Developer • Web & API Security Tester</h3>
 
 ---
 

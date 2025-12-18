@@ -10,7 +10,7 @@ I'm a **Security Researcher** and **Security Script Developer** focusing on:
 - **Web & API Security Testing**
 - **Recon Automation & Offensive Tooling**
 - **LLM-Based Security Automation Workflows**
-- **Threat Discovery, JavaScript Analysis & API Enumeration**
+
   
 
 ---
@@ -46,20 +46,13 @@ I'm a **Security Researcher** and **Security Script Developer** focusing on:
 
 ---
 
-## 🚀 Focus Areas
 
-- API recon pipelines  
-- JS security analysis  
-- Token flow mapping  
-- Vulnerability scanning automation  
-- Cache poisoning research  
-- AI-driven pentest tooling  
 
----
+
 
 ## 📫 Connect
 Feel free to reach out if you want to collaborate on:
 - Recon tooling  
 - LLM-powered security automation  
 - Bug bounty research  
-- API security engineering  
+

@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I'm Rizwan</h1>
-<h3 align="center">Security Researcher • Script Developer • Web & API Security Tester</h3>
+<h3 align="center">Security Researcher • Script Developer</h3>
 
 ---
 
 ## 🛡️ About Me
 
-I'm a **Security Researcher** and **Security Script Developer** focusing on:
+I'm a **Security Researcher** and **Script Developer** focusing on:
 
 - **Web & API Security Testing**
 - **Recon Automation & Offensive Tooling**
